@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello Python
 
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
@@ -189,3 +190,32 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mej
 [![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+=======
+# Curso: Fundamentos de Python con enfoque en IA
+
+Bienvenido al curso. 
+
+🧠 Fundamentos de Python con Enfoque en Inteligencia Artificial
+
+Descripción del tema:
+
+Este módulo proporciona una base sólida en el lenguaje de programación Python, orientada específicamente al desarrollo de soluciones con Inteligencia Artificial. A lo largo de esta unidad, el estudiante aprenderá a dominar la sintaxis, estructuras de control, tipos de datos, funciones, manejo de errores y principios de programación orientada a objetos, todo aplicado con una visión práctica hacia proyectos de IA.
+
+El curso no solo enseña a programar, sino que forma mentalmente al estudiante para pensar como un desarrollador de IA, sentando las bases necesarias para trabajar con bibliotecas como NumPy, Pandas, Scikit-learn, TensorFlow o PyTorch en los módulos avanzados.
+
+Lo que aprenderás:
+
+* Comprender la lógica de programación desde cero con Python.
+
+* Escribir scripts claros, eficientes y bien estructurados.
+
+* Aplicar estructuras de datos esenciales para el análisis de datos y modelos de IA.
+
+* Introducción a entornos interactivos como Jupyter Notebook para experimentación con código.
+
+* Fundamentos que te permitirán integrar Python con algoritmos de machine learning y deep learning.
+
+Ideal para:
+
+Principiantes en programación, estudiantes de inteligencia artificial, entusiastas del análisis de datos y cualquier persona interesada en desarrollar soluciones inteligentes desde cero utilizando Python como herramienta principal.
+>>>>>>> 1683d43d07c12aa85f2811080b17c7ccb0a7b995
